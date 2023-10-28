@@ -2,6 +2,7 @@
 Argüman olarak girilen sayıları bana verilen belli fonksiyonlarla yapabildiğim kadarıyla en az adımda sıraladığım proje.
 
 <img width="685" alt="Screen Shot 2023-10-28 at 5 22 54 PM" src="https://github.com/berkaysrgl/PushSwap/assets/149242814/b5ca4dc9-7429-4670-a959-31e8e7a67802">
+
 V.1 Oyun kuralları
 • Oyun a ve b isimli 2 yığın’dan oluşmaktadır. • Başlangıç olarak:
 ◦ a yığını rastgele sayıda birbirinin kopyası olmayan negative ve/veya pozitif sayıdan oluşmaktadır.
